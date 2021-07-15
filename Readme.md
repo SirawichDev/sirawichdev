@@ -10,12 +10,23 @@
 <div>
 <img alt="img" style="border-radius: 10px" src="https://cdn.dribbble.com/users/3735399/screenshots/14476951/media/7ad75518ab423c822f830a0a1fc813ef.gif"/>
 <div style="display: flex; flex-flow: column; width: 300px; position: absolute !important; top: 150px; z-index: 9999;">
-<p align="left" style="display: inline; overflow: hidden; background-color: #FDFDFE; filter: drop-shadow(5px 5px 0px black); padding: 5px; color: black; border-radius: 5px">
+<div>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    p {
+     display: inline; overflow: hidden; background-color: #FDFDFE; filter: drop-shadow(5px 5px 0px black); padding: 5px; color: black; border-radius: 5px;
+    }
+  </style>
+ <polygon points="5,5 195,10 185,185 10,195" />
+<foreignObject x="20" y="20" width="160" height="160">
+<p align="left">
 An ever budding Full Stack Developer.
 <br>
 When I'm not coding I'm usually practicing guitar 🎸.
 </p>
-
+</foreignObject>
+</svg>
+</div>
 </div>
  </div>
 
