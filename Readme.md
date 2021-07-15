@@ -1,9 +1,3 @@
-<style>
-	.introduce {
-	display: inline; overflow: hidden; background-color: #FDFDFE; filter: drop-shadow(5px 5px 0px black); padding: 5px; color: black; border-radius: 5px
-	}
-
-</style>
 
 <h1 align="center">👋 - Sawasdee...</h1>
 
@@ -18,7 +12,7 @@
 <img alt="img" style="border-radius: 10px" src="https://cdn.dribbble.com/users/3735399/screenshots/14476951/media/7ad75518ab423c822f830a0a1fc813ef.gif"/>
 <div style="display: flex; flex-flow: column; width: 300px; position: absolute !important; top: 150px; z-index: 9999;">
 <div>
-<p align="left" class="introduce">
+<p align="left" style="display: inline; overflow: hidden; background-color: #FDFDFE; filter: drop-shadow(5px 5px 0px black); padding: 5px; color: black; border-radius: 5px">
 An ever budding Full Stack Developer.
 <br>
 When I'm not coding I'm usually practicing guitar 🎸.
