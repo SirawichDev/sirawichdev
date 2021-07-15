@@ -23,9 +23,9 @@ When I'm not coding I'm usually practicing guitar 🎸.
 
 <br>
 
-<p align="center"> 
+<div align="center"> 
 <h3>...if i were a Ts... </h3>
-</p>
+</div>
 
 ```typescript
 interface Profile {
