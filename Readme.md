@@ -8,8 +8,8 @@
 🌱  
 </p>
 <div>
-<img style="border-radius: 10px" src="https://cdn.dribbble.com/users/3735399/screenshots/14476951/media/7ad75518ab423c822f830a0a1fc813ef.gif"/>
-<div style="display: flex; flex-flow: column; width: 300px; position: absolute; top: 150px; z-index: 9999;">
+<img alt="img" style="border-radius: 10px" src="https://cdn.dribbble.com/users/3735399/screenshots/14476951/media/7ad75518ab423c822f830a0a1fc813ef.gif"/>
+<div style="display: flex; flex-flow: column; width: 300px; position: absolute !important; top: 150px; z-index: 9999;">
 <p align="left" style="display: inline; overflow: hidden; background-color: #FDFDFE; filter: drop-shadow(5px 5px 0px black); padding: 5px; color: black; border-radius: 5px">
 An ever budding Full Stack Developer.
 <br>
